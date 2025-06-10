@@ -1,64 +1,29 @@
-<h1 align="center">🌍 Hello World. Ashli-ann here.</h1>
+<h1 align="center">Hello World Im Ashli-ann</h1>
 
-<p align="center"><em>🛠️ "Fix-it Felix of Computer Science"</em></p>
+<p align="center">
+  🎓 Recently graduated from the <strong>University of the West Indies</strong> with a <strong>BSc in Computer Science</strong>.
+</p>
 
----
+<h3>My Current Tech Stack</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="Redis" width="60" height="60"/>
+</p>
 
-### 🔭 Currently Working On
-- 🧪 Exploring **every** technology in the computing universe — from dev to infra, front to back, bits to qubits.  
-- 💅 *Not* worrying about how it looks (but let’s be honest, it still looks good).
 
----
 
-### 🌱 Currently Learning
-- 📡 **Network Engineering**  
-  Aiming for certification, because packets don’t route themselves.
-
----
-
-### 👯 Open to Collaborate On
-- 🧱 Building **scalable microservices**.
-
----
-
-### 🤔 Need Help With
-- 🧠 Building **scalable microservices** — let’s solve problems *together*.
-
----
-
-### 💬 Ask Me About
-- 🔧 Debugging weird bugs at 2AM  
-- 🧰 Why your Docker container won’t build  
-- 💻 Anything CS — I probably know it
-
----
-
-### 📫 How to Reach Me
+### Please Feel Free to Contact me
 - 📧 **Email:** ashpetrekin@gmail.com  
 - 💼 **LinkedIn:** [Ashli-ann Petrekin](https://www.linkedin.com/in/ashli-ann-petrekin-128763345/)
 
 ---
-
-### 😄 Pronouns
-- She/Her
-
----
-
-### ⚡ Fun Fact
-I can write `hello world` in more languages than I can speak.
-
----
-
-### 🖥️ Tech I Touch
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/-Networking-007396?style=flat&logo=cisco&logoColor=white)
-
----
-
-<!-- Optional GitHub stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashpetre&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashpetre&layout=compact&theme=radical" width="300"/>
